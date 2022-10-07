@@ -1,6 +1,6 @@
 # SRD_PD
 Prace domowe z przedmiotu
 
-|Egzamin   |Kolokwium   |Kurs   |Hackathon   |Modelowanie   |PD1   |   |   |   |   |SUMA   |
+|Egzamin   |Kolokwium   |Kurs   |Modelowanie   |PD1   |   |   |   |   |SUMA   |
 |---|---|---|---|---|---|---|---|---|---|
-|   |   |   |   | 5 |   |   |   |   | 5 |
+|   |   |   |   |   | 5 |   |   |   | 5 |
