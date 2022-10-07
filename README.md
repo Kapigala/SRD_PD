@@ -2,5 +2,5 @@
 Prace domowe z przedmiotu
 
 |Egzamin   |Kolokwium   |Kurs   |Hackathon   |Modelowanie   |PD1   |   |   |   |   |SUMA   |
-|---|---|---|---|---|---|---|---|---|---|---|
-|   |   |   |   |   | 5 |   |   |   |   | 5 |
+|---|---|---|---|---|---|---|---|---|---|
+|   |   |   |   | 5 |   |   |   |   | 5 |
