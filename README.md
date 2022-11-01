@@ -1,5 +1,5 @@
 # SRD_PD
-Prace domowe z przedmiotu
+Uzyskane punkty
 
 |Egzamin   |Kolokwium   |Kurs   |Modelowanie   |PD1   |Hack   |PD2   |PD3   |   |   |   |   |SUMA   | ZDAJE  |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
